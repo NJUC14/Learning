@@ -20,6 +20,7 @@ h1, h2{
 }
 
 header img{
+	margin-top: 20px;
 	width: 300px;
     border-radius: 180px;
     border: 10px solid green;
