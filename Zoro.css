@@ -3,11 +3,11 @@ body{
 	font-family: 'Playfair Display', serif;
 	font-size: 20px;
 	line-height: 30px;
-	background-color: #FFF5EE;
+	background-color: lightgray;
 }
 
 header{
-	background-color: #FFF5EE;
+	background-color: lightgray;
 	text-align: center;
 }
 
